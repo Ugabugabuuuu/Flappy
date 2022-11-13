@@ -1,0 +1,3 @@
+C:\Users\danie\source\repos\flapp\Release\flapp.exe
+C:\Users\danie\source\repos\flapp - Copy\Release\flapp.exe
+C:\Users\danie\source\repos\flapp - Copy - Copy\Release\flapp.exe

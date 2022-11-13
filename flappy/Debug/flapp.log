@@ -1,0 +1,7 @@
+﻿  bird_player.cpp
+  flapp.cpp
+D:\repos\da flap\flappy\flapp.cpp(39,7): warning C4101: 'input': unreferenced local variable
+D:\repos\da flap\flappy\flapp.cpp(242,3): warning C4551: function call missing argument list
+  map.cpp
+  Generating Code...
+  flapp.vcxproj -> D:\repos\da flap\flappy\Debug\flapp.exe
